@@ -1,0 +1,10 @@
+C:\Users\birhanu\Desktop\ExchangeRateCalculator\ExchangeRateCalculator\bin\Debug\ExchangeRateCalculator.exe.config
+C:\Users\birhanu\Desktop\ExchangeRateCalculator\ExchangeRateCalculator\bin\Debug\ExchangeRateCalculator.exe
+C:\Users\birhanu\Desktop\ExchangeRateCalculator\ExchangeRateCalculator\bin\Debug\ExchangeRateCalculator.pdb
+C:\Users\birhanu\Desktop\ExchangeRateCalculator\ExchangeRateCalculator\obj\Debug\ExchangeRateCalculator.csprojAssemblyReference.cache
+C:\Users\birhanu\Desktop\ExchangeRateCalculator\ExchangeRateCalculator\obj\Debug\ExchangeRateCalculator.Form1.resources
+C:\Users\birhanu\Desktop\ExchangeRateCalculator\ExchangeRateCalculator\obj\Debug\ExchangeRateCalculator.Properties.Resources.resources
+C:\Users\birhanu\Desktop\ExchangeRateCalculator\ExchangeRateCalculator\obj\Debug\ExchangeRateCalculator.csproj.GenerateResource.cache
+C:\Users\birhanu\Desktop\ExchangeRateCalculator\ExchangeRateCalculator\obj\Debug\ExchangeRateCalculator.csproj.CoreCompileInputs.cache
+C:\Users\birhanu\Desktop\ExchangeRateCalculator\ExchangeRateCalculator\obj\Debug\ExchangeRateCalculator.exe
+C:\Users\birhanu\Desktop\ExchangeRateCalculator\ExchangeRateCalculator\obj\Debug\ExchangeRateCalculator.pdb
