@@ -1,3 +1,5 @@
 ﻿# Exchange Rate Calculator-CSharp!
- https://user-images.githubusercontent.com/70249457/124050014-4005fa00-d9df-11eb-8bb7-0ebcbd5833c8.png
+
+
+![CurrencyCalculator](https://user-images.githubusercontent.com/70249457/124050087-6cba1180-d9df-11eb-99b7-ed0ab1a1d2ca.png)
 
